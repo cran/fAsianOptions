@@ -1,12 +1,12 @@
-778a4a69b4993e0b95ceb923c6bbb049 *ChangeLog
-8ddf3d627c80ee161518bbcaaf5c93f8 *DESCRIPTION
+32bf4eb915a4a8d904030771c17c0dc6 *ChangeLog
+c0daa94321e843e245dd3263d17b2387 *DESCRIPTION
 5d0d38953901cdabfa1c56977da4fdf1 *NAMESPACE
 be7df6130ace1097ba6e8ac0971a7089 *R/BesselFunctions.R
 b24a5a867d0ecc11c159b1b58cc40393 *R/EBMAsianOptions.R
 9882507e5c37d8a890edcaf01bf6f696 *R/EBMDistribution.R
-6ad93f26a234d930b5cf4ac9a69d0955 *R/GammaFunctions.R
+e7efd48788e0248853efb338c3fa578e *R/GammaFunctions.R
 79480e99627d3c023f20c88e367debbf *R/HypergeometricFunctions.R
-d3fa068f6d4477ef976b47dafb71b2ac *R/zzz.R
+3c77bef693ed7c293f2a3319d1edbdba *R/zzz.R
 6042b9c5e5bec3ecc1b6959cd2858b64 *inst/COPYRIGHT.html
 b208277c86926092266ea1ba1d2d9e0b *inst/unitTests/Makefile
 a516e208a0f1ef3c9f8e2f5e9b36290a *inst/unitTests/runTests.R
