@@ -1,5 +1,5 @@
-32bf4eb915a4a8d904030771c17c0dc6 *ChangeLog
-c0daa94321e843e245dd3263d17b2387 *DESCRIPTION
+9bcd862367e38fd2e8e17c8dd856f16b *ChangeLog
+11ea07fce6ca196088f7bb52ad00ba75 *DESCRIPTION
 5d0d38953901cdabfa1c56977da4fdf1 *NAMESPACE
 be7df6130ace1097ba6e8ac0971a7089 *R/BesselFunctions.R
 b24a5a867d0ecc11c159b1b58cc40393 *R/EBMAsianOptions.R
@@ -23,5 +23,5 @@ b0397e3bbfb223909451b1ed199b6894 *man/HypergeometricFunctions.Rd
 a741df3291ffa772d712e7660ac0c66f *src/EBMAsianOptions.f
 00b5c600bd679e0127d91a08cddcbe72 *src/GammaFunctions.f
 02b7119a53ace717d00d3538d8ffdd41 *src/HypergeometricFunctions.f
-1d848c9e918f0eafbb64d4aa0e593e78 *src/Makevars
+3996e7c16bfb96fad295ee425815cb4d *src/Makevars
 ca566e590ec30abd0718c5375e1a446f *tests/doRUnit.R
